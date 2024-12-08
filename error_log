@@ -1,0 +1,41 @@
+[13-Nov-2024 21:59:22 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'suramalr_ruwani'@'localhost' (using password: YES) in /home3/suramalraj/records.a2zengineering.net/index.php on line 10
+[13-Nov-2024 21:59:22 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'suramalr_ruwani'@'localhost' (using password: YES) in /home3/suramalraj/records.a2zengineering.net/index.php on line 52
+[13-Nov-2024 21:59:22 America/Chicago] Database connection failed: Access denied for user 'suramalr_ruwani'@'localhost' (using password: YES)
+[16-Nov-2024 10:22:10 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'suramalr_ruwani'@'localhost' (using password: YES) in /home3/suramalraj/records.a2zengineering.net/index.php on line 10
+[16-Nov-2024 10:22:10 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'suramalr_ruwani'@'localhost' (using password: YES) in /home3/suramalraj/records.a2zengineering.net/index.php on line 52
+[16-Nov-2024 10:22:10 America/Chicago] Database connection failed: Access denied for user 'suramalr_ruwani'@'localhost' (using password: YES)
+[18-Nov-2024 09:35:37 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home3/suramalraj/records.a2zengineering.net/index.php on line 10
+[18-Nov-2024 09:35:37 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home3/suramalraj/records.a2zengineering.net/index.php on line 52
+[18-Nov-2024 09:35:37 America/Chicago] Database connection failed: Access denied for user ''@'localhost' (using password: NO)
+[01-Dec-2024 03:22:19 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'suramalr_hasitha'@'localhost' (using password: YES) in /home3/suramalraj/records.a2zengineering.net/index.php on line 12
+[01-Dec-2024 03:22:19 America/Chicago] Database connection failed: Access denied for user 'suramalr_hasitha'@'localhost' (using password: YES)
+[01-Dec-2024 03:22:19 America/Chicago] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home3/suramalraj/records.a2zengineering.net/index.php on line 32
+[02-Dec-2024 07:06:36 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function calculate_employee_payments() in /home3/suramalraj/records.a2zengineering.net/wages_report.php:45
+Stack trace:
+#0 {main}
+  thrown in /home3/suramalraj/records.a2zengineering.net/wages_report.php on line 45
+[02-Dec-2024 08:05:30 America/Chicago] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home3/suramalraj/records.a2zengineering.net/wages_report.php on line 34
+[03-Dec-2024 21:13:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/suramalraj/records.a2zengineering.net/wages_report.php:152
+Stack trace:
+#0 {main}
+  thrown in /home3/suramalraj/records.a2zengineering.net/wages_report.php on line 152
+[03-Dec-2024 21:14:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/suramalraj/records.a2zengineering.net/wages_report.php:152
+Stack trace:
+#0 {main}
+  thrown in /home3/suramalraj/records.a2zengineering.net/wages_report.php on line 152
+[03-Dec-2024 21:14:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/suramalraj/records.a2zengineering.net/wages_report.php:152
+Stack trace:
+#0 {main}
+  thrown in /home3/suramalraj/records.a2zengineering.net/wages_report.php on line 152
+[03-Dec-2024 23:07:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function calculate_employee_payments() in /home3/suramalraj/records.a2zengineering.net/wages_report.php:43
+Stack trace:
+#0 {main}
+  thrown in /home3/suramalraj/records.a2zengineering.net/wages_report.php on line 43
+[04-Dec-2024 01:59:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/suramalraj/records.a2zengineering.net/add_entry.php:138
+Stack trace:
+#0 {main}
+  thrown in /home3/suramalraj/records.a2zengineering.net/add_entry.php on line 138
+[08-Dec-2024 05:02:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home3/suramalraj/records.a2zengineering.net/update_entry.php:112
+Stack trace:
+#0 {main}
+  thrown in /home3/suramalraj/records.a2zengineering.net/update_entry.php on line 112
